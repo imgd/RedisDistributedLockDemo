@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\SexNXDemo\bin\Debug\netcoreapp3.1\SexNXDemo.exe
+C:\Users\Administrator\source\repos\SexNXDemo\obj\Debug\netcoreapp3.1\SexNXDemo.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\SexNXDemo\obj\Debug\netcoreapp3.1\SexNXDemo.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\SexNXDemo\obj\Debug\netcoreapp3.1\SexNXDemo.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\SexNXDemo\obj\Debug\netcoreapp3.1\SexNXDemo.csproj.CopyComplete
+C:\Users\Administrator\source\repos\SexNXDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\SexNXDemo\bin\Debug\netcoreapp3.1\SexNXDemo.deps.json
+C:\Users\Administrator\source\repos\SexNXDemo\bin\Debug\netcoreapp3.1\SexNXDemo.runtimeconfig.json
+C:\Users\Administrator\source\repos\SexNXDemo\bin\Debug\netcoreapp3.1\SexNXDemo.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\SexNXDemo\bin\Debug\netcoreapp3.1\SexNXDemo.dll
+C:\Users\Administrator\source\repos\SexNXDemo\bin\Debug\netcoreapp3.1\SexNXDemo.pdb
+C:\Users\Administrator\source\repos\SexNXDemo\bin\Debug\netcoreapp3.1\CSRedisCore.dll
+C:\Users\Administrator\source\repos\SexNXDemo\obj\Debug\netcoreapp3.1\SexNXDemo.dll
+C:\Users\Administrator\source\repos\SexNXDemo\obj\Debug\netcoreapp3.1\SexNXDemo.pdb

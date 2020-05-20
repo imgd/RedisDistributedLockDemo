@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\SexNXDemo\bin\Debug\netcoreapp3.1\RedisDistributedLock.exe
+C:\Users\Administrator\source\repos\SexNXDemo\bin\Debug\netcoreapp3.1\RedisDistributedLock.deps.json
+C:\Users\Administrator\source\repos\SexNXDemo\bin\Debug\netcoreapp3.1\RedisDistributedLock.runtimeconfig.json
+C:\Users\Administrator\source\repos\SexNXDemo\bin\Debug\netcoreapp3.1\RedisDistributedLock.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\SexNXDemo\bin\Debug\netcoreapp3.1\RedisDistributedLock.dll
+C:\Users\Administrator\source\repos\SexNXDemo\bin\Debug\netcoreapp3.1\RedisDistributedLock.pdb
+C:\Users\Administrator\source\repos\SexNXDemo\bin\Debug\netcoreapp3.1\CSRedisCore.dll
+C:\Users\Administrator\source\repos\SexNXDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\SexNXDemo\obj\Debug\netcoreapp3.1\RedisDistributedLock.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\SexNXDemo\obj\Debug\netcoreapp3.1\RedisDistributedLock.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\SexNXDemo\obj\Debug\netcoreapp3.1\RedisDistributedLock.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\SexNXDemo\obj\Debug\netcoreapp3.1\RedisDistributedLock.csproj.CopyComplete
+C:\Users\Administrator\source\repos\SexNXDemo\obj\Debug\netcoreapp3.1\RedisDistributedLock.dll
+C:\Users\Administrator\source\repos\SexNXDemo\obj\Debug\netcoreapp3.1\RedisDistributedLock.pdb
